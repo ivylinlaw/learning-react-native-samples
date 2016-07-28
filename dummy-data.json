@@ -1,36 +1,9 @@
 {
-  "title": "blah",
-  "markers": [
-	  {
-	    "username": "user1",
-	    "profile_pic_thumbnail": "https://www.ventract.com/images/profile/default-profile-image-small.gif",
-	    "time": "1460811652",
-	    "loc_latitude": 34.0522,
-	    "loc_longitude": -118.2437,
-	    "status": "locked",
-	    "category": "notes",
-	    "content": {
-	    	"title": "title1",
-	    	"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-	    	"image": "http://facebook.github.io/react-native/img/opengraph.png?2",
-	    	"video": null,
-	    }
-	  },
-	  
-	  {
-	    "username": "user5",
-	    "profile_pic_thumbnail": "https://www.ventract.com/images/profile/default-profile-image-small.gif",
-	    "time": "1460811652",
-	    "loc_latitude": 34.0430933,
-	    "loc_longitude": -118.2687513,
-	    "status": "unlocked",
-	    "category": "notes",
-	    "content": {
-	    	"title": "title10",
-	    	"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-	    	"image": "http://facebook.github.io/react-native/img/opengraph.png?2",
-	    	"video": null,
-	    }
-	  }
+  "movies": [
+    { "title": "Star Wars", "releaseYear": "1977"},
+    { "title": "Back to the Future", "releaseYear": "1985"},
+    { "title": "The Matrix", "releaseYear": "1999"},
+    { "title": "Inception", "releaseYear": "2010"},
+    { "title": "Interstellar", "releaseYear": "2014"}
   ]
 }
